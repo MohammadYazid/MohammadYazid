@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MohammadYazid
-- 👀 I’m interested in learning more about coding
 - 🌱 I’m currently learning Visual Studio Code and also C++
-- 📫 yazidm852@gmail.com
-- ⚡ Fun fact: I love Coffee
+- 📫 Can contact me via email: yazidm852@gmail.com
 
 <!---
 MohammadYazid/MohammadYazid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
